@@ -1,0 +1,22 @@
+.Nevbarheading{
+    color:rgb(0, 108, 249);
+}
+.Nevbarheading:hover{
+    color:rgb(21, 27, 35);
+    cursor: pointer;
+}
+.Nevbarheading:active{
+    color:rgb(98, 120, 150);
+}
+.NevBarButton{
+    color:blue;
+    background-color: white;
+}
+.NevBarButton:hover{
+    background-color: blue;
+  color: white;
+}
+.NevBarButton:active{
+    background-color: rgb(0, 0, 119);
+    background-color: white;
+}

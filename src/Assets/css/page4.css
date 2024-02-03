@@ -1,0 +1,61 @@
+.page4heading1{
+    width: 966px;
+height: 89px;
+top: 6208px;
+left: 385px;
+font-family: Poppins;
+font-size: 60px;
+font-weight: 400;
+line-height: 89px;
+letter-spacing: 0em;
+text-align: left;
+width: 1728px;
+margin-top: 100px;
+text-align: center;
+}
+.page4heading2{
+width: 888.55px;
+height: 112px;
+font-family: Poppins;
+font-size: 37px;
+font-weight: 400;
+line-height: 56px;
+letter-spacing: 0em;
+text-align: center;
+}
+.page4imgage1{
+    position: absolute;
+    width: 604px;
+    height: 1000px;
+    
+}
+.page4table1{
+    position: relative;
+    width: 974px;
+    height: 660px;
+    top: 185px;
+    border-radius: 0px 30px 30px 0px;
+    background: rgba(245, 249, 255, 1);
+     
+}
+.heading1{
+    width: 766px;
+height: 92px;
+top: 6655px;
+left: 208px;
+font-family: Poppins;
+font-size: 31px;
+font-weight: 400;
+line-height: 46px;
+letter-spacing: 0em;
+text-align: left;
+padding-left: 50px;
+
+}
+.heading1:hover{
+    color:blue;
+}
+.page4contentheading{
+    color:blue;
+}
+

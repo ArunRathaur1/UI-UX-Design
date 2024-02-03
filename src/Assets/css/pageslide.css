@@ -1,0 +1,38 @@
+.pageslideheading1{
+font-size: 65px;
+font-weight: 400;
+line-height: 79px;
+letter-spacing: 0em;
+text-align: left;
+}
+.pageslide{
+  width: 1728px;
+  background: rgba(176, 209, 254, 0.13);
+
+}
+.pageslideheading2{
+  padding-bottom: 80px;
+font-size: 37px;
+font-weight: 350;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: left;
+}
+.slidepagebutton{
+width: 515px;
+height: 78px;
+border-radius: 10px;
+border: 1px solid rgba(0, 74, 173, 1);
+margin-top:200px;
+background-color: white;
+font-family:"poppins";
+font-size: 20px;
+}
+.slidepagebutton:hover{
+  color:white;
+  background-color: rgb(0, 110, 255) ;
+}
+.slidepagebutton:active{
+  color:white;
+  background-color: rgba(0, 74, 173, 1) ;
+}
