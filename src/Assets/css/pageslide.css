@@ -1,32 +1,31 @@
 .pageslideheading1{
-font-size: 65px;
+font-size: 40px;
 font-weight: 400;
 line-height: 79px;
 letter-spacing: 0em;
 text-align: left;
 }
 .pageslide{
-  width: 1728px;
+  width: 100%;
   background: rgba(176, 209, 254, 0.13);
 
 }
 .pageslideheading2{
   padding-bottom: 80px;
-font-size: 37px;
+font-size: 25px;
 font-weight: 350;
 line-height: 45px;
 letter-spacing: 0em;
 text-align: left;
 }
 .slidepagebutton{
-width: 515px;
-height: 78px;
+width: 200px;
+height: 50px;
 border-radius: 10px;
 border: 1px solid rgba(0, 74, 173, 1);
-margin-top:200px;
 background-color: white;
 font-family:"poppins";
-font-size: 20px;
+font-size: 15px;
 }
 .slidepagebutton:hover{
   color:white;

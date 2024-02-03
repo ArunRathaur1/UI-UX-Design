@@ -3,17 +3,17 @@ import img from '../Assets/images/Screenshot 2024-02-02 181101.png'
 import '../Assets/css/Nevbar.css';
 export default function NevBar() {
   return (
-    <div>
-      <div className='nevbarmain' style={{height:'117px',width:"1728px",top:"-4px",position:"relative",display:"flex"}}>
-        <img src={img} alt="this is the "style={{height:"117px",position:"relative",left:"50px"}}></img>
-        <div style={{display:'flex',position:"relative", width:"100%",justifyContent:"right" ,alignItems:"center"}}>
-            <div className='Nevbarheading' style={{marginRight:"50px",fontSize:"35px"}}>Program</div>
-            <div className='Nevbarheading' style={{marginRight:"50px",fontSize:"35px"}}>Reviews</div>
-            <div className='Nevbarheading' style={{marginRight:"50px",fontSize:"35px"}}>Features</div>
-            <div className='Nevbarheading' style={{marginRight:"50px",fontSize:"35px"}}>Teaching</div>
-            <div className='Nevbarheading' style={{marginRight:"50px"}}><button type="button" class="btn btn-outline-primary NevBarButton" style={{fontSize:"35px"}}>Free Masterclasses</button></div>
-        </div>
-      </div>
-    </div>
+    <>
+    <nav className="navbar navbar-expand-lg navbar-light bg-light">
+  <a className="navbar-brand" href="#"><img src={img} style={{width:'30%'}}></img></a>
+  <div className="collapse navbar-collapse" id="navbarSupportedContent" style={{display :"flex",justifyContent:"right",gap:"7%"}}>
+      <div  className='Nevbarheading'>Programs</div>
+      <div className='Nevbarheading'>Reviews</div>
+      <div className='Nevbarheading'>Features</div>
+      <div className='Nevbarheading'>Teaching</div>
+      <button className="btn btn-outline-primary my-2 my-sm-0" type="submit">Free Masterclasses</button>
+  </div>
+</nav>
+</>
   )
 }

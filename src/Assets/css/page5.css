@@ -4,7 +4,7 @@ height: 102px;
 top: 179.52px;
 left: 522.28px;
 font-family: Poppins;
-font-size: 55px;
+font-size: 40px;
 font-weight: 400;
 line-height: 82px;
 letter-spacing: 0em;
@@ -16,14 +16,14 @@ height: 102px;
 top: 179.52px;
 left: 522.28px;
 font-family: Poppins;
-font-size: 34px;
+font-size: 25px;
 font-weight: 400;
 line-height: 51px;
 letter-spacing: 0em;
 text-align: center;
-
 }
 .page5box1{
+    border-radius: 10px;
 border: 1px solid rgba(0, 74, 173, 1);
 box-shadow: 2px 2px 10px 2px rgb(141, 141, 141);
 }
@@ -34,14 +34,13 @@ box-shadow: 2px 2px 10px 2px rgb(141, 141, 141);
 font-family: Poppins;
 font-size: 25px;
 font-weight: 500;
-line-height: 38px;
 letter-spacing: 0em;
 text-align: center;
 
 }
 .page5boxcontent{
     font-family: Poppins;
-font-size: 21px;
+font-size: 19px;
 font-weight: 400;
 line-height: 32px;
 letter-spacing: 0em;

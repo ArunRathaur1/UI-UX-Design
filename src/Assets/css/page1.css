@@ -3,26 +3,23 @@
 }
 .page1heading1{
 position: absolute;
-width: 840px;
+width:40%;
 height: 214px;
-top: 260px;
+top: 35%;
 left: 102px;
 font-family: Poppins;
-font-size: 71px;
+font-size: 40px;
 font-weight: 600;
-line-height: 107px;
-letter-spacing: 0em;
 text-align: left;
 color:white;
 }
 .page1heading2{
 position: absolute;
-width: 804px;
-height: 96px;
-top: 490px;
-left: 83px;
+width: 50%;
+top:62%;
+left: 5%;
 font-family: Poppins;
-font-size: 32px;
+font-size: 23px;
 font-weight: 600;
 line-height: 48px;
 letter-spacing: 0em;
@@ -31,12 +28,11 @@ color: rgba(255, 255, 255, 1);
 }
 .page1heading3{
 position: absolute;
-width: 630px;
-height: 48px;
-top: 600px;
-left: 83px;
+width: 50%;
+top:82%;
+left: 5%;
 font-family: Poppins;
-font-size: 32px;
+font-size: 23px;
 font-weight: 600;
 line-height: 48px;
 letter-spacing: 0em;
@@ -45,38 +41,30 @@ color: rgba(255, 255, 255, 1);
 }
 .page1heading4{
     position: absolute;
-    width: 823px;
-height: 96px;
-top: 660px;
-left: 83px;
+    width: 53%;
+    top:94%;
+    left: 5%;
 font-family: Poppins;
-font-size: 32px;
+font-size: 23px;
 font-weight: 600;
-line-height: 48px;
-letter-spacing: 0em;
-text-align: left;
 color: rgba(255, 255, 255, 1);
 }
 .page1heding5{
     position: absolute;
-    width: 690px;
-height: 144px;
-top: 760px;
-left: 83px;
+    width: 43%;
+    top:110%;
+    left: 5%;
 font-family:poppins;
-font-size: 32px;
+font-size: 23px;
 font-weight: 600;
-line-height: 48px;
-letter-spacing: 0em;
-text-align: left;
 color: rgba(255, 255, 255, 1);
 }
 .page1button{
     position: absolute;
     width: 207px;
     height: 62px;
-    top: 950px;
-    left: 233px;
+    top: 135%;
+    left:15%;
     border-radius: 10px;
     border: 1px solid rgba(255, 255, 255, 1);
     box-shadow: 0px 3px 32px 0px rgba(0, 0, 0, 0.46);

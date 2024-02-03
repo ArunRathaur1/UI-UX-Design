@@ -4,7 +4,7 @@ height: 123px;
 top: 70px;
 left: 579px;
 font-family: Poppins;
-font-size: 82px;
+font-size: 50px;
 font-weight: 400;
 line-height: 123px;
 letter-spacing: 0em;
@@ -16,14 +16,14 @@ height: 138px;
 top: 218px;
 left: 237px;
 font-family: Poppins;
-font-size: 46px;
+font-size: 30px;
 font-weight: 400;
 line-height: 69px;
 letter-spacing: 0em;
 text-align: center;
 }
 .page3box1{
-    width: 1400px;
+    width: 75%;
 height: 1105px;
 top: 449px;
 left: 167px;
@@ -35,7 +35,7 @@ box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, 0.25);
 }
 .page3img1{
     border-radius: 50px;
-    width: 1394px;
+    width: 99.9%;
 height: 650px;
 position: relative;
 
@@ -44,7 +44,7 @@ border-radius: 50px 50px 0px 0px;
 }
 .page3box12{
     border-radius: 0px 0px 50px 50px;
-    width: 1394px;
+    width: 99.9%;
     height: 470px;
     position: relative;
     top:-20px;
@@ -54,25 +54,24 @@ border-radius: 50px 50px 0px 0px;
     background: rgba(245, 249, 255, 1);
 }
 .page3box12heading1{
-    width: 1394px;
+    width:100%;
     text-align: center;
 height: 96px;
 position: relative;
 top:50px;
 font-family: Poppins;
-font-size: 64px;
+font-size: 40px;
 font-weight: 400;
 line-height: 96px;
 letter-spacing: 0em;
 text-align: left;
 }
 .page3box12heading2{
-width: 1103px;
 position: relative;
 top:50px;
 height: 114px;
 font-family: Poppins;
-font-size: 38px;
+font-size: 25px;
 font-weight: 400;
 line-height: 57px;
 letter-spacing: 0em;

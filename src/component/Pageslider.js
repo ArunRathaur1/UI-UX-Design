@@ -19,10 +19,10 @@ export default function App() {
   return (
     <>
     <div className='pageslide'style={{paddingBottom:"50px"}}>
-    <div style={{display:'flex',justifyContent:"center",width:'1728px'}}>
+    <div style={{display:'flex',justifyContent:"center",width:'100%'}}>
     <div className='pageslideheading1'style={{paddingTop:'50px'}}>Get inspired by someone like you</div>
     </div>
-    <div style={{display:'flex',justifyContent:"center",width:'1728px'}}>
+    <div style={{display:'flex',justifyContent:"center",width:'100%'}}>
     <div className='pageslideheading2'style={{paddingTop:'50px'}}>Who is now living their dream at top-tech companies</div>
     </div>
       <Swiper
@@ -40,7 +40,7 @@ export default function App() {
         pagination={true}
         modules={[EffectCoverflow, Pagination]}
         className="mySwiper"
-        style={{width:"1728px"}}
+        style={{width:"100%"}}
       >
         <SwiperSlide>
           <Card1></Card1>
@@ -62,7 +62,7 @@ export default function App() {
         </SwiperSlide>
       </Swiper>
       <div style={{display:'flex',justifyContent:'center'}}>
-      <button className='slidepagebutton'>Read More Reviews</button>
+      <button className='slidepagebutton' style={{marginTop:'30px'}}>Read More Views</button>
       </div>
       </div>
     </>

@@ -4,9 +4,9 @@ import '../Assets/css/page1.css';
 export default function Page1() {
   return (
     <>
-    <div className='page1background' style={{width:"1728px",height:"1020px",overflow:"hidden"}}>
-    <div style={{width:"891px",height:"874px", background: "rgba(217, 217, 217, 0.4)",borderRadius:"50%",position:"relative",top:"79px",left:"929px"}}></div>
-    <img src={Img} alt="this is the first " style={{width:'1279px',height:"908px",position:'relative',top:"-750px",left:'713px'}}></img>
+    <div className='page1background' style={{width:"100%",height:"800px",overflow:"hidden"}}>
+    <div style={{width:"50%",height:"77%", background: "rgba(217, 217, 217, 0.4)",borderRadius:"50%",position:"relative",top:"15%",left:"56%"}}></div>
+    <img src={Img} alt="this is the first " style={{width:'80%',height:"80%",position:'relative',left:"40%",top:"-57%"}}></img>
     </div>
     <div>
     <div className='page1heading1'>Grab Your <span style={{color:"black"}}>Dream</span> Tech Offer today</div>

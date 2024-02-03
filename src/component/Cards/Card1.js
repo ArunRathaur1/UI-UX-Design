@@ -5,9 +5,9 @@ import bottomcoma from '../../Assets/images/bottomcoma.png';
 import akhil from '../../Assets/images/akhil.jpg';
 export default function Card1() {
   return (
-      <div style={{width:"1728px",display:"flex",justifyContent:"center"}}>
+      <div style={{width:"100%",display:"flex",justifyContent:"center"}}>
       <div className='Card1div1'>
-        <div style={{display:"flex",gap:"100px"}}>
+        <div style={{display:"flex",gap:"20%"}}>
             <div><img src={akhil} className='CardImg' alt="thi is the img"></img></div>
             <div>
                 <div className='CardName'>Akhil Reddy</div>
@@ -15,15 +15,15 @@ export default function Card1() {
             </div>
         </div>
         <div style={{display:"flex",justifyContent:"center"}}>
-        <img src={topcoma} alt="this is the "className='cardcoma' style={{position:"relative",top:"100px",left:"-30px",height:"50px"}}></img>
+        <img src={topcoma} alt="this is the "className='cardcoma' style={{position:"relative",top:"20px",left:"10px",height:"50px"}}></img>
         <div className='CardDescription'>
        <div> 
         Bosscoder acadmey made me a complete software engineer.</div>
         I was working in infosys & was  struggling to crack the product companies due to lack of understanding in DSA and system design.
-        <img src={bottomcoma} alt="this is the "className='cardcoma' style={{height:"50px",position:"relative",left:"50px",top:"50px"}}></img>
-        </div>
-        </div>
+        <img src={bottomcoma} alt="this is the "className='cardcoma' style={{height:"50px",position:"relative",left:"-2%",top:"10%"}}></img>
         <div className='CardReadMore'>Read More</div>
+        </div>
+      </div>
       </div>
       </div>
   )
